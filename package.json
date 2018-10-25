@@ -25,7 +25,7 @@
   "main": "index.js",
   "author": "Dan Zajdband <dan.zajdband@gmail.com>",
   "dependencies": {
-    "superagent": "^2.8.2"
+    "superagent": "3.8.2"
   },
   "devDependencies": {
     "chai": "^3.5.0",
