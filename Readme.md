@@ -1,9 +1,9 @@
 MovieDB
 =======
-[![Build Status](https://travis-ci.org/impronunciable/moviedb.svg?branch=master)](https://travis-ci.org/impronunciable/moviedb)
-[![NPM version](https://badge.fury.io/js/moviedb.svg)](http://badge.fury.io/js/moviedb)
-[![Dependency Status](https://img.shields.io/david/impronunciable/moviedb.svg)](https://david-dm.org/impronunciable/moviedb)
-[![npm](https://img.shields.io/npm/dm/moviedb.svg?maxAge=2592000)]()
+[![Build Status](https://travis-ci.org/KevinMidboe/moviedb.svg?branch=master)](https://travis-ci.org/KevinMidboe/moviedb)
+[![NPM version](https://badge.fury.io/js/km-moviedb.svg)](http://badge.fury.io/js/km-moviedb)
+[![Known Vulnerabilities](https://snyk.io/test/github/KevinMidboe/moviedb/badge.svg?targetFile=package.json)](https://snyk.io/test/github/KevinMidboe/moviedb?targetFile=package.json)
+[![npm](https://img.shields.io/npm/dm/km-moviedb.svg?maxAge=2592000)]()
 
 node.js library that makes the interaction with themoviedb.org V3 API easy.
 
