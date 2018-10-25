@@ -1,7 +1,7 @@
 {
-  "name": "km-moviedb",
+  "name": "moviedb",
   "description": "Library for interacting with themoviedb.com API",
-  "version": "0.2.12",
+  "version": "0.2.10",
   "scripts": {
     "test": "clear; make test"
   },
@@ -25,7 +25,7 @@
   "main": "index.js",
   "author": "Dan Zajdband <dan.zajdband@gmail.com>",
   "dependencies": {
-    "superagent": "3.8.2"
+    "superagent": "^3.8.1"
   },
   "devDependencies": {
     "chai": "^3.5.0",
